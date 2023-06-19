@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/126.e8500de4.chunk.js","mappings":"iKAIE,UAJmB,WACjB,OAAO,gDACR,C","sources":["views/NotFoundView.jsx"],"sourcesContent":["const NotFoundView = () => {\n    return <h1>No such page exists!</h1>;\n  };\n  \n  export default NotFoundView;"],"names":[],"sourceRoot":""}
