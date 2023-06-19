@@ -2,14 +2,18 @@ import styled from 'styled-components';
 
 export const List = styled.ul`
   list-style: none;
-  width: 500px;
+  width: 450px;
+  margin-top: 20px;
+  background-color: white;
 `;
 export const Contact = styled.li`
   display: flex;
   gap: 5px;
   width: 100%;
-  justify-content: space-between;
-  align-items: center;
-  margin-top: 20px;
-  color: white;
+  margin-top: 10px;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-content: stretch;
+  justify-content: flex-start;
+  align-items: baseline;
 `;
